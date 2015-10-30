@@ -70,3 +70,4 @@ c:\users\zach\documents\visual studio 2015\Projects\Mvc1\Mvc1\obj\Debug\Mvc1.pdb
 C:\Users\Zach\documents\visual studio 2015\Projects\Mvc1\Mvc1\obj\Debug\Mvc1.Migrations.Initial.resources
 C:\Users\Zach\documents\visual studio 2015\Projects\Mvc1\Mvc1\obj\Debug\Mvc1.csproj.GenerateResource.Cache
 C:\Users\Zach\documents\visual studio 2015\Projects\Mvc1\Mvc1\obj\Debug\Mvc1.Migrations.Rating.resources
+C:\Users\Zach\documents\visual studio 2015\Projects\Mvc1\Mvc1\obj\Debug\Mvc1.Migrations.DataAnnotations.resources
